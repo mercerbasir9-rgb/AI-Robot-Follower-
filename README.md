@@ -1,4 +1,5 @@
-<img width="655" height="873" alt="image" src="https://github.com/user-attachments/assets/b07036f1-70c1-45a7-bea5-ef2743a8c533" />
+<img width="655" height="873" alt="image" src="https://github.com/user-attachments/assets/8f39f3d9-6dc9-484c-aa55-8a0c8ac29870" />
+
 
 # **Team Name**
 SeyTech
