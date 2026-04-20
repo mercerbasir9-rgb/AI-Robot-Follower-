@@ -37,3 +37,14 @@ During the last competition, Sey used computer vision in his project and wanted 
 ## **Challenges We Faced**
 
 One of our major challenges was setting the bounds for the camera and establishing the correct x-coordinate thresholds to tell the robot when it needed to go left or right. Another major challenge was establishing serial communication between the Raspberry Pi and the Arduino.The last challenge we experienced is losing sight of the owner while moving forward due to difference of resolution between the Raspberry Pi and camera module. Our Raspberry Pi board got fried in the process of testing, so we improvised and placed the laptop on top of the robot chassis. This improved the camera resolution and program operation so it was beneficial. 
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/4aaabc3d-fdf0-4a37-a357-07b1263e178c" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/97632d71-ab40-4dd5-ba78-eb0d698aeb2b" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/79885b0f-acb0-42a4-8e54-9176e9a62fc0" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/0f67a427-4915-485d-9338-51cdf59e5bf7" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/ffa701be-438d-4724-965d-7d3fd1422929" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/32ce2e74-7e4b-4201-bf8f-a2236d6988dc" />
+
+
+
+
+
