@@ -20,6 +20,9 @@ For the hardware setup, we used an aluminum robot chassis as the base of our sys
 
 We used a 5V switching voltage regulator rated at 6A to safely deliver the required 5V and 5A to the Raspberry Pi voltage pin. We included a L293D expansion board to control 4 TT DC motors from the Arduino due to its limited PWM output pins. Once connected, we sent information between the Arduino and Raspberry Pi via serial communication at 9600 Baud.
 <img width="1920" height="1080" alt="Your paragraph text" src="https://github.com/user-attachments/assets/ed5d591d-0d0c-49bb-92e0-6d8212606a01" />
+<img width="655" height="873" alt="image" src="https://github.com/user-attachments/assets/46b4686a-42f0-4237-ad08-f70f5b7af735" />
+<img width="654" height="873" alt="image" src="https://github.com/user-attachments/assets/7bba7066-6fe5-45e2-9b78-8a1101698c4d" />
+
 
 
 ---
