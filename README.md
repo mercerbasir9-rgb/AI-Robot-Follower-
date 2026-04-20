@@ -29,6 +29,4 @@ During the last competition, Sey used computer vision in his project and wanted 
 
 ## **Challenges We Faced**
 
-- **Camera Boundary Calibration** — One of our major challenges was setting the bounds for the camera and establishing the correct x-coordinate thresholds to tell the robot when it needed to go left or right.
-
-- **Serial Communication** — Establishing reliable
+One of our major challenges was setting the bounds for the camera and establishing the correct x-coordinate thresholds to tell the robot when it needed to go left or right. Another major challenge was establishing serial communication between the Raspberry Pi and the Arduino.The last challenge we experienced is losing sight of the owner while moving forward due to difference of resolution between the Raspberry Pi and camera module. Our Raspberry Pi board got fried in the process of testing, so we improvised and placed the laptop on top of the robot chassis. This improved the camera resolution and program operation so it was beneficial. 
